@@ -64,8 +64,7 @@ The server will execute the following sequence of steps:
 ### References
 
 1. JavaFX: Working with the JavaFX Scene Graph – https://docs.oracle.com/javase/8/javafx/scene-graph-tutorial/scenegraph.htm
-2. Interface ObservableList<E>
-https://docs.oracle.com/javase/8/javafx/api/javafx/collections/ObservableList.html
+2. Interface `ObservableList<E>` – https://docs.oracle.com/javase/8/javafx/api/javafx/collections/ObservableList.html
 3. Introducing Threads in Socket Programming in Java – https://www.geeksforgeeks.org/introducing-threads-socket-programming-java/
 
 
