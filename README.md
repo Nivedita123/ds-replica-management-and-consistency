@@ -68,5 +68,5 @@ The server will execute the following sequence of steps:
 3. Introducing Threads in Socket Programming in Java – https://www.geeksforgeeks.org/introducing-threads-socket-programming-java/
 
 
-#### Note -
-This project was created as an assignment for Distributed Systems course at The University of Texas at Arlington.
+### Note
+This code was submitted as part of Distributed Systems course assignment at The University of Texas at Arlington to Prof. Chance Eary (https://mentis.uta.edu/explore/profile/chance-eary)
